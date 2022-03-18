@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # il faut vérifier toutes les valeurs
 
-tau = 10 #@valeur taux compression@ #[-]
+tau = 9 #@valeur taux compression@ #[-]
 D = 0.76 #@valeur alesage@ #[m]
 C = 0.8 #@valeur course@ #[m]
 L = 0.15 #@valeur longueur bielle@ #[m]
